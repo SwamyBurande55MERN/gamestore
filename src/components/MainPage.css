@@ -1,0 +1,44 @@
+#LogoImage{
+     position: absolute;
+     left: 75rem;
+     top: 9rem;
+}
+#LosSantosHeading{
+      color: goldenrod;
+      font-size: 2.5rem;
+      font-style:italic;
+      position: absolute;
+      left: 60rem;
+      top: 28rem;
+      width: 60rem;
+      height: 5rem;
+}
+#description{
+      color: gold;
+      height: 5rem;
+      width: 50rem;
+      font-size:x-large;
+      font-weight: 500;
+      position: absolute;
+      top: 36rem;
+      left :50rem;
+}
+#buyNowButton{
+      height: 5rem;
+      width: 15rem;
+      font-weight: 700;
+      font-size:xx-large;
+      border: white 2px solid;
+      border-radius: 5px;
+      position: absolute;
+      top: 52rem;
+      left: 42rem;
+      opacity:1;
+}
+#RockstarLogo{
+      position: absolute;
+      top : 3rem;
+      left : 5rem;
+      height: 10rem;
+      width: 10rem;
+}
